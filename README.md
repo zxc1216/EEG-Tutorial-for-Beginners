@@ -13,8 +13,8 @@ A tutorial library dedicated to solving EEG signal processing and machine learni
 | 平台 (Platform) | 链接 (Link) |
 | :---: | :---: |
 | 🅱️ Bilibili | https://space.bilibili.com/415126513 |
-| 🧠 知乎 (Zhihu) | `[你的知乎主页链接]` |
-| 📕 小红书 (Xiaohongshu) | `[你的小红书主页链接]` |
+| 🧠 知乎 (Zhihu) | `[敬请期待...]` |
+| 📕 小红书 (Xiaohongshu) | `[敬请期待...]` |
 | 💻 CSDN | https://blog.csdn.net/weixin_52849741/category_12996780.html |
 
 ---
