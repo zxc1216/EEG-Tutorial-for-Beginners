@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8c97e38c-7607-40b3-af34-3483d4a7930b)# EEG-Tutorial-for-Beginners
+# EEG-Tutorial-for-Beginners
 A tutorial library dedicated to solving EEG signal processing and machine learning problems using Python.（一个专注于用Python解决脑电（EEG）信号处理与机器学习问题的教程库。）
 # [-爱拖延的小张] - Python脑电信号处理实战教程
 
@@ -12,7 +12,7 @@ A tutorial library dedicated to solving EEG signal processing and machine learni
 
 | 平台 (Platform) | 链接 (Link) |
 | :---: | :---: |
-| 🅱️ Bilibili | `[你的B站主页链接]` |
+| 🅱️ Bilibili | (https://space.bilibili.com/415126513 |
 | 🧠 知乎 (Zhihu) | `[你的知乎主页链接]` |
 | 📕 小红书 (Xiaohongshu) | `[你的小红书主页链接]` |
 | 💻 CSDN | `[你的CSDN主页链接]` |
@@ -22,7 +22,7 @@ A tutorial library dedicated to solving EEG signal processing and machine learni
 ### 📚 课程大纲 | Series Outline
 
 #### 系列一：MNE库实战入门 (In Progress)
-* **EP01: 环境搭建与数据初探** (代码 `ep01_...`, 视频 `[[B站/YouTube链接](https://space.bilibili.com/415126513)]`)
+* **EP01: 环境搭建与数据初探** (代码 `ep01_...`, 视频 `[[B站/YouTube链接](]`)
 * **EP02: 核心基石-滤波与重采样** (代码 `ep02_...`, 视频 `[链接待更新]`)
 * **EP03: 伪影检测与去除(ICA)** (代码 `ep03_...`, 视频 `[链接待更新]`)
 * **EP04: 数据分段(Epoching)** (代码 `ep04_...`, 视频 `[链接待更新]`)
