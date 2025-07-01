@@ -2,8 +2,6 @@
 A tutorial library dedicated to solving EEG signal processing and machine learning problems using Python.（一个专注于用Python解决脑电（EEG）信号处理与机器学习问题的教程库。）
 # [-爱拖延的小张] - Python脑电信号处理实战教程
 
-![Your Banner Image - Optional](URL_to_your_banner_image)
-
 大家好，我是 **[-爱拖延的小张]**！一名专注于用Python进行脑电(EEG)信号处理与机器学习研究的探索者。
 
 这个仓库是我视频教程系列的官方代码库。我的目标是带领大家从零开始，一步步掌握EEG分析的核心技术，捅破那层“看起来很难”的窗户纸。
