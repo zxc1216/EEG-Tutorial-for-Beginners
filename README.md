@@ -36,7 +36,7 @@ A tutorial library dedicated to solving EEG signal processing and machine learni
 
 ### 🚀 如何使用本仓库 | How to Use
 
-1.  **Clone a copy:** `git clone https://github.com/... .git`
+1.  **Clone a copy:** `git clone https://github.com/zxc1216/EEG-Tutorial-for-Beginners.git`
 2.  **Install dependencies:** `pip install -r requirements.txt` (我会在发布第一期视频时创建好这个文件)
 3.  每个 `.ipynb` 文件对应一期视频教程，包含了所有可运行的代码和注释。
 
